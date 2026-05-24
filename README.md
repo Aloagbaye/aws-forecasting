@@ -1,6 +1,6 @@
 # AWS Forecasting
 
-End-to-end time series forecasting pipeline built for the **AWS ML Specialty** certification study, using a retail sales dataset (500 SKUs, 5 categories, 730 days). Covers data processing, local baseline modelling, SageMaker XGBoost, and DeepAR with a cloud-native SageMaker Pipeline.
+End-to-end time series forecasting pipeline built for the **AWS ML Associate** certification study, using a retail sales dataset (500 SKUs, 5 categories, 730 days). Covers data processing, local baseline modelling, SageMaker XGBoost, and DeepAR with a cloud-native SageMaker Pipeline.
 
 ---
 
@@ -34,7 +34,7 @@ aws-forecasting/
 
 | Attribute | Value |
 |-----------|-------|
-| Source | Synthetic M5-style retail sales |
+| Source | Walmart M5 retail sales data|
 | SKUs | 500 |
 | Categories | Books, Clothing, Electronics, Home & Garden, Sports |
 | Subcategories | 18 |

@@ -60,10 +60,6 @@ data/raw/ → data_processing.ipynb → data/processed/
                               (category → subcategory → SKU)
 ```
 
-See [`docs/timeseries-pipeline-plan.md`](docs/timeseries-pipeline-plan.md) for the full step-by-step tutorial, cost estimates, and cost-saving recommendations.
-
----
-
 ## Processed features
 
 Features engineered in `notebooks/data_processing.ipynb`:
